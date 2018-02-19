@@ -1,0 +1,20 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/TPC/src" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_87e4e27fa2128902da5e37b3e7ab3f52 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="TPC" fontname="Helvetica", fontsize="10", URL="dir_87e4e27fa2128902da5e37b3e7ab3f52.html"]
+  dir_99a7a708919c9221801ca7c93b79d194 [shape=box, label="src", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_99a7a708919c9221801ca7c93b79d194.html"];
+  }
+  dir_051dca18e802f8e9474f2e30d29c04e0 [shape=box label="Detectors" color="red" URL="dir_051dca18e802f8e9474f2e30d29c04e0.html"];
+  dir_6f22cbd49ee75d810f2bfe3ea5accc3c [shape=box label="include" color="red" URL="dir_6f22cbd49ee75d810f2bfe3ea5accc3c.html"];
+  dir_047746f9f311f49446db9474b7431d0d [shape=box label="simulation" color="red" URL="dir_047746f9f311f49446db9474b7431d0d.html"];
+  dir_99a7a708919c9221801ca7c93b79d194->dir_051dca18e802f8e9474f2e30d29c04e0 [headlabel="1", labeldistance=1.5 headhref="dir_000062_000076.html"];
+  dir_99a7a708919c9221801ca7c93b79d194->dir_6f22cbd49ee75d810f2bfe3ea5accc3c [headlabel="1", labeldistance=1.5 headhref="dir_000062_000060.html"];
+  dir_99a7a708919c9221801ca7c93b79d194->dir_047746f9f311f49446db9474b7431d0d [headlabel="2", labeldistance=1.5 headhref="dir_000062_000089.html"];
+  dir_051dca18e802f8e9474f2e30d29c04e0->dir_6f22cbd49ee75d810f2bfe3ea5accc3c [headlabel="15", labeldistance=1.5 headhref="dir_000076_000060.html"];
+  dir_051dca18e802f8e9474f2e30d29c04e0->dir_047746f9f311f49446db9474b7431d0d [headlabel="73", labeldistance=1.5 headhref="dir_000076_000089.html"];
+  dir_6f22cbd49ee75d810f2bfe3ea5accc3c->dir_051dca18e802f8e9474f2e30d29c04e0 [headlabel="1", labeldistance=1.5 headhref="dir_000060_000076.html"];
+  dir_047746f9f311f49446db9474b7431d0d->dir_051dca18e802f8e9474f2e30d29c04e0 [headlabel="1", labeldistance=1.5 headhref="dir_000089_000076.html"];
+}

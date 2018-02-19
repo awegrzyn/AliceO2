@@ -1,0 +1,21 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/ParameterElectronics.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/ParameterElectronics.h">
+<area shape="rect" id="node2" href="$d0/d64/ParameterElectronics_8cxx.html" title="Implementation of the parameter class for the detector electronics. " alt="" coords="5,126,181,197"/>
+<area shape="rect" id="node3" href="$da/d69/testTPCParameters_8cxx.html" title="This task tests the Parameter handling. " alt="" coords="206,126,377,197"/>
+<area shape="rect" id="node4" href="$d4/d7c/HardwareClusterDecoder_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/reconstruction\l/src/HardwareClusterDecoder.cxx" alt="" coords="402,126,621,197"/>
+<area shape="rect" id="node5" href="$d8/ded/TPCCATracking_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/reconstruction\l/src/TPCCATracking.cxx" alt="" coords="647,126,845,197"/>
+<area shape="rect" id="node6" href="$d6/da8/TrackTPC_8cxx.html" title="Implementation of the TPC track. " alt="" coords="871,126,1069,197"/>
+<area shape="rect" id="node7" href="$de/d92/TPC_2simulation_2include_2TPCSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/include/TPCSimulation/Digitizer.h" alt="" coords="1094,126,1316,197"/>
+<area shape="rect" id="node17" href="$d0/d45/SAMPAProcessing_8h.html" title="Definition of the SAMPA response. " alt="" coords="1430,126,1716,197"/>
+<area shape="rect" id="node20" href="$d0/d5c/testTPCSAMPAProcessing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/test/testTPCSAMPAProcessing.cxx" alt="" coords="1994,253,2232,323"/>
+<area shape="rect" id="node8" href="$db/d60/testTracks_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/reconstruction\l/macro/testTracks.C" alt="" coords="639,253,837,323"/>
+<area shape="rect" id="node9" href="$dd/d4b/TPC_2simulation_2include_2TPCSimulation_2DigitizerTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/include/TPCSimulation/Digitizer\lTask.h" alt="" coords="913,245,1123,331"/>
+<area shape="rect" id="node10" href="$df/d46/TPC_2simulation_2src_2DigitizerTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/DigitizerTask.cxx" alt="" coords="762,379,939,450"/>
+<area shape="rect" id="node14" href="$d9/d59/testHitsDigitsClusters_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/macro/testHitsDigitsClusters.C" alt="" coords="405,253,613,323"/>
+<area shape="rect" id="node15" href="$d7/d0a/TPC_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/Digitizer.cxx" alt="" coords="1358,253,1535,323"/>
+<area shape="rect" id="node16" href="$d1/dd8/SAMPAProcessing_8cxx.html" title="Implementation of the SAMPA response. " alt="" coords="1149,253,1333,323"/>
+<area shape="rect" id="node11" href="$d7/d11/macro_2run__digi_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_digi.C" alt="" coords="964,387,1121,443"/>
+<area shape="rect" id="node12" href="$d3/db7/run__digi__tpc_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_digi_tpc.C" alt="" coords="1145,387,1303,443"/>
+<area shape="rect" id="node13" href="$d3/d56/runTPC_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/runTPC.cxx" alt="" coords="1145,499,1303,555"/>
+<area shape="rect" id="node18" href="$db/d73/DigitPad_8cxx.html" title="Implementation of the Pad container. " alt="" coords="1793,253,1969,323"/>
+<area shape="rect" id="node19" href="$dd/d5e/testTPCDigitContainer_8cxx.html" title="This task tests the DigitContainer of the TPC digitization. " alt="" coords="1559,253,1768,323"/>
+</map>
